@@ -20,7 +20,7 @@ Code v99.99.999
 
 -->
 
-## Unreleased
+## [4.92.2](https://github.com/coder/code-server/releases/tag/v4.92.2) - 2024-08-19
 
 Code v1.92.2
 
